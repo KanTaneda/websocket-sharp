@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>WebSocketSharp</RootNamespace>
+    <Authors></Authors>
+    <Description>A C# implementation of the WebSocket protocol client and server</Description>
+    <Product>websocket-sharp.dll</Product>
+    <Company />
+    <Copyright>sta.blockhead</Copyright>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <AutoGenerateBindingRedirects>False</AutoGenerateBindingRedirects>
+    <FileVersion>1.0.2.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

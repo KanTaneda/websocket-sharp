@@ -1,0 +1,8 @@
+D:\工程\Creator\websocket-sharp\websocket-sharp\bin\Release\netstandard2.0\websocket-sharp.deps.json
+D:\工程\Creator\websocket-sharp\websocket-sharp\bin\Release\netstandard2.0\websocket-sharp.dll
+D:\工程\Creator\websocket-sharp\websocket-sharp\bin\Release\netstandard2.0\websocket-sharp.pdb
+D:\工程\Creator\websocket-sharp\websocket-sharp\obj\Release\netstandard2.0\websocket-sharp.csproj.CoreCompileInputs.cache
+D:\工程\Creator\websocket-sharp\websocket-sharp\obj\Release\netstandard2.0\websocket-sharp.AssemblyInfoInputs.cache
+D:\工程\Creator\websocket-sharp\websocket-sharp\obj\Release\netstandard2.0\websocket-sharp.AssemblyInfo.cs
+D:\工程\Creator\websocket-sharp\websocket-sharp\obj\Release\netstandard2.0\websocket-sharp.dll
+D:\工程\Creator\websocket-sharp\websocket-sharp\obj\Release\netstandard2.0\websocket-sharp.pdb
